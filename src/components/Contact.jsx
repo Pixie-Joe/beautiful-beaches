@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from 'react';
 import img from '../assets/Images/land.avif';
 import contact from '../assets/Images/website.png';
