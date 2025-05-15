@@ -3,7 +3,7 @@ import slideImg1 from "../assets/Images/North.webp";
 import slideImg2 from "../assets/Images/South.webp";
 import slideImg3 from "../assets/Images/East.jpg";
 import slideImg4 from "../assets/Images/West.jpg";
-import slideImg5 from "../assets/Images/adam-winger-VGs8z60yT2c-unsplash.jpg";
+import slideImg5 from "../assets/Images/favicon.png";
 import { Col } from "react-bootstrap";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
