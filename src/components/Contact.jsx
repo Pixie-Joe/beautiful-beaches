@@ -131,7 +131,7 @@ const Contact = () => {
                     style={{ border: 0 }}
                     allowFullScreen
                     loading="lazy"
-                    data-aos="zoom-up"
+                    data-aos="zoom-in"
                   ></iframe>
                 </div>
                 <div className="col-12 col-md-4">

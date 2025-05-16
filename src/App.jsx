@@ -16,6 +16,7 @@ import Carousel3d from './components/Carousel3d';
 import Footer from './components/Footer';
 import Location from './components/Location';
 import Contact from './components/Contact';
+import AboutUs from './components/About';
 
 function App() {
   return (
@@ -52,6 +53,11 @@ function App() {
       <Element name="blog">
         <Blog />
       </Element>
+
+      <Element name="about">
+        <AboutUs />
+      </Element>
+
 
       {/* Contact section with form or contact details */}
       <Element name="contact">

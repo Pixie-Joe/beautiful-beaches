@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { TbBeach } from 'react-icons/tb'
+import Logo from "../assets/Images/favicon.png"
 import { RiCloseLine, RiMenu3Line, RiMoonClearLine, RiSunLine } from '@remixicon/react'
 import { Link } from 'react-scroll'
 import 'aos/dist/aos.css';
@@ -84,7 +84,7 @@ const Navbar = () => {
           {/* Logo */}
           <div data-aos="flip-right" className="position-absolute start-0 ms-3">
             <h1 className="text-uppercase d-flex align-items-center gap-1">
-              <TbBeach /> Beaches
+              <img src={Logo} className='Logo'/>
             </h1>
           </div>
 

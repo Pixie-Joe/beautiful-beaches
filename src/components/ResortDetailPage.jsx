@@ -48,6 +48,7 @@ const ResortDetailPage = () => {
               data-aos="zoom-in"
               onClick={handleClose}
               className="btn btn-dark btn-sm position-absolute top-0 end-0 mb-3"
+              aria-label="Close resort details"
               style={{ zIndex: 10, borderRadius: '5rem', fontSize: '1.5rem' }}
             >
               <strong>X</strong>
